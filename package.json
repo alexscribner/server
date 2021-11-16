@@ -10,7 +10,7 @@
   "author": "Alex Scribner",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.562.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
     "dotenv": "^5.0.1",
